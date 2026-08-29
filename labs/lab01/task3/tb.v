@@ -9,6 +9,7 @@ module tb;
   wire [3:0] t_sum;
   wire       t_cout;
 
+
   dut DUT (
     .a    (t_a),
     .b    (t_b),
